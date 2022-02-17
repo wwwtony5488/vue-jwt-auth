@@ -1,24 +1,20 @@
 # vue-jwt-auth
+A simple library for managing authentication and token, including refresh token and route guard.
 
-## Project setup
-```
-yarn install
-```
+## Setup
+...continue
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Usage
+...continue
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Customization
+...continue
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Inspired By
+https://auth0.com/
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+
+MIT licensed
+
+Copyright (C) 2021-2022 Anthony Kuo
